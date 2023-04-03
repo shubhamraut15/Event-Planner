@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: loginform
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shubh
+Implementation-Vendor-Id: com.Login
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/loginform
+Created-By: Maven Integration for Eclipse
+
